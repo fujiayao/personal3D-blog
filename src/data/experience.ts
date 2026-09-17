@@ -9,7 +9,7 @@ export interface Experience {
 export const experiences: Experience[] = [
   {
     id: 'exp-01',
-    company: '数理技术有限公司',
+    company: '*** 科技有限公司', // 已打码
     role: 'Java 软件工程师',
     period: '2020.10 — NOW',
     highlights: [
@@ -26,15 +26,14 @@ export const experiences: Experience[] = [
   },
   {
     id: 'exp-02',
-    company: '大数据运营有限公司',
+    company: '*** 大数据运营公司', // 已打码
     role: 'Java 软件开发工程师',
     period: '2018.08 — 2020.10',
     highlights: [
       '招商引资信息化平台',
-      '华东精选商城',
-      '跟单项目',
-      '超级浏览器',
-      '杭州园林文物综合保护管理平台',
+      '电商商城系统',
+      '浏览器定制开发',
+      '园林文物综合保护管理平台',
       '智慧养老信息化系统',
     ],
   },

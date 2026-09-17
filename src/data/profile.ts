@@ -19,14 +19,14 @@ export interface Profile {
 export const profile: Profile = {
   name: '格子衫程序尧',
   alias: '格子衫程序尧',
-  age: 30,
+  age: 0, // 已打码
   experience: 8,
   role: 'Java Backend Developer · AI Explorer · Vibe Coder',
-  location: '金华',
+  location: '***', // 已打码
   education: '软件工程本科',
-  school: '西安工业大学',
+  school: '***', // 已打码
   avatarUrl: '/avatar.png',
-  heroLines: ["Hi, I'm 格子衫程序尧."],
+  heroLines: ["Hi, I'm 程序尧."],
   heroSub: ['Java Developer.', 'AI Explorer.', 'Vibe Coder.'],
   intro: '一个写了 8 年 Java 后端，\n现在开始认真研究 AI 和 Vibe Coding 的程序员。',
   transitioning: ['AI', 'Software', 'Creativity'],
@@ -39,6 +39,6 @@ export const profile: Profile = {
   ],
   contact: [
     { label: 'GitHub：https://github.com/fujiayao', href: 'https://github.com/fujiayao' },
-    { label: 'Email：1790018181@qq.com', href: 'https://wx.mail.qq.com' },
+    { label: 'Email：***@***.com', href: '#' }, // 已打码
   ],
 };

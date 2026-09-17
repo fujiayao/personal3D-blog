@@ -15,7 +15,7 @@ export const journey: JourneyItem[] = [
   {
     year: '2018',
     title: '进入软件开发行业',
-    description: '正式开始职业生涯，加入浙江万博大数据。',
+    description: '正式开始职业生涯，加入 *** 大数据公司。', // 已打码
   },
   {
     year: '2018 — 2020',
@@ -24,7 +24,7 @@ export const journey: JourneyItem[] = [
   },
   {
     year: '2020 — NOW',
-    title: '数理技术有限公司',
+    title: '*** 科技有限公司', // 已打码
     description: 'Java 软件工程师，深入参与智慧养老等大型 Spring Cloud 微服务项目。',
   },
   {

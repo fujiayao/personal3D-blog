@@ -42,7 +42,7 @@ export const projects: Project[] = [
   {
     id: 'p02',
     index: '02',
-    title: '恒太数字化会员中心',
+    title: '数字化会员中心',
     subtitle: '优惠券微服务重构',
     tags: ['Spring Cloud', 'Redis', 'High Concurrency', 'Design Patterns'],
     description:
@@ -61,7 +61,7 @@ export const projects: Project[] = [
   {
     id: 'p03',
     index: '03',
-    title: '超级浏览器',
+    title: '定制浏览器',
     subtitle: 'Chromium 内核定制浏览器',
     tags: ['Chromium', 'C++', 'Spring Cloud', 'Membership'],
     description:
@@ -87,7 +87,7 @@ export const projects: Project[] = [
   {
     id: 'p05',
     index: '05',
-    title: '华东精选商城',
+    title: '电商商城系统',
     subtitle: 'B2C 电子商务平台',
     tags: ['E-commerce', 'ERP', 'WeChat Pay'],
     description: '包含商品、订单、会员、ERP 对接、微信支付等完整电商链路的 B2C 商城系统。',
